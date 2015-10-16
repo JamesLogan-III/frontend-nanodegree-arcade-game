@@ -1,6 +1,11 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Instructions:
 
-for self-checking their submission.
+Download a copy of all the files in this repository
+Open the archive and unpack it to your computer
+Open the index.html file 
+Use the Arrow key to move your bug character safely to the water at the top of the screen.
+
+Enjoy
